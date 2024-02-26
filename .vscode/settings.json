@@ -1,4 +1,5 @@
 {
+    "git.enableSmartCommit": false,
     "breadcrumbs.enabled": true,
 
     "debug.autoExpandLazyVariables": true,
